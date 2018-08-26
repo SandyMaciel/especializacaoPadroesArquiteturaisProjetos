@@ -7,9 +7,8 @@ public abstract class TransformaStringTemplate {
 	
 	private String leString() {
 		Scanner ler = new Scanner(System.in);
-		String l;
 		System.out.println("Entre com uma palavra: ");
-		return l = ler.next();	
+		return  ler.next();	
 		
 	}
 	
