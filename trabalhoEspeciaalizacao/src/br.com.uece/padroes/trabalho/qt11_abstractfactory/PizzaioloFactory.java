@@ -1,4 +1,4 @@
-package padroes.trabalho.abstractfactory;
+package qt11_abstractfactory;
 
 public interface PizzaioloFactory {
 	Pizza criarPizza();

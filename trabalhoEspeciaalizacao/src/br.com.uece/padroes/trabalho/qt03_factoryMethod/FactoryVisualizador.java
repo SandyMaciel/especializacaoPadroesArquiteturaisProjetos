@@ -1,4 +1,4 @@
-package com.uece.br.factoryMethod;
+package qt03_factoryMethod;
 
 public abstract class FactoryVisualizador {
 

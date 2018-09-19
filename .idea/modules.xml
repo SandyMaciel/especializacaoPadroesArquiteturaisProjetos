@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/especializacaoTrabalhoPadroesArquiteturaisProjetos.iml" filepath="$PROJECT_DIR$/.idea/especializacaoTrabalhoPadroesArquiteturaisProjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/padroes.iml" filepath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/padroes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/trabalhoEspeciaalizacao.iml" filepath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/trabalhoEspeciaalizacao.iml" />
     </modules>
   </component>
 </project>

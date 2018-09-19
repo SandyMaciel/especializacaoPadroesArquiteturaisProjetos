@@ -1,4 +1,4 @@
-package com.uece.br.decorator;
+package qt04_decorator;
 
 public class Topo extends Extra{
 

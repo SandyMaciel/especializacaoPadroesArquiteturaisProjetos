@@ -1,4 +1,4 @@
-package com.uece.br.decorator;
+package qt04_decorator;
 
 public class FrozenBase implements IFrozenItem{
     private String nome;

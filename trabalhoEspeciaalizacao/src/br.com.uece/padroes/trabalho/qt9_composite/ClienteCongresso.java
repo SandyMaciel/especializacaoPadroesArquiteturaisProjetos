@@ -1,4 +1,4 @@
-package padroes.trabalho.QT_09_composite;
+package qt9_composite;
 
 public class ClienteCongresso {
 	public static void main(String[] args) {

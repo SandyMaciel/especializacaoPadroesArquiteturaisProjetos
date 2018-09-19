@@ -1,4 +1,4 @@
-package com.uece.br.observer;
+package qt07_observer;
 
 public abstract class Observer {
     protected Alarme alarme;

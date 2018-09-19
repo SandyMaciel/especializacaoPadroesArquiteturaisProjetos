@@ -1,4 +1,4 @@
-package trabalho;
+package qt12_adapter;
 
 import java.util.List;
 

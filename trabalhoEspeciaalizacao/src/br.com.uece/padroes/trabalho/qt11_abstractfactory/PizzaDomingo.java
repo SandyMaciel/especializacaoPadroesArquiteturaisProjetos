@@ -1,11 +1,11 @@
-package padroes.trabalho.abstractfactory;
+package qt11_abstractfactory;
 
 public class PizzaDomingo implements Pizza {
 
 	@Override
 	public String montaPizza() {
 		
-		return "Domingo a pizzaria é fechada";
+		return "Domingo a pizzaria ï¿½ fechada";
 	}
 
 }

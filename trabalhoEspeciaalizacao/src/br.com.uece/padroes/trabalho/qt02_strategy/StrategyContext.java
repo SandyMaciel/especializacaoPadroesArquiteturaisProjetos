@@ -1,6 +1,5 @@
-package com.uece.br.strategy;
+package qt02_strategy;
 
-import com.uece.br.strategy.ILoggerStrategy;
 
 public class StrategyContext {
     ILoggerStrategy log;

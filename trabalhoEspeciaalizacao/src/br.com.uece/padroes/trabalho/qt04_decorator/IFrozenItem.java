@@ -1,4 +1,4 @@
-package com.uece.br.decorator;
+package qt04_decorator;
 
 public interface IFrozenItem {
     public double getPreco();

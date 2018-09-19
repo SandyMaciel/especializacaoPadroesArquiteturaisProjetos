@@ -1,5 +1,4 @@
-package padroes.trabalho.templatemethod;
-
+package qt08_templatemethod;
 import java.util.Scanner;
 
 public abstract class TransformaStringTemplate {

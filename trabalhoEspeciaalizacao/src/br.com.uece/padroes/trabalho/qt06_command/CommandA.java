@@ -1,4 +1,4 @@
-package com.uece.br.command;
+package qt06_command;
 
 public class CommandA implements Command{
     Joystick joystick;

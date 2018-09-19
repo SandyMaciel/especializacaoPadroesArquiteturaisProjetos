@@ -1,4 +1,4 @@
-package padroes.trabalho.QT_10_bridge;
+package qt10_bridge;
 
 public abstract class Abstracao {
 	

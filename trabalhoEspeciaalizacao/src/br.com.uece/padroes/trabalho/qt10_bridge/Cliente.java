@@ -1,4 +1,4 @@
-package padroes.trabalho.QT_10_bridge;
+package qt10_bridge;
 
 public class Cliente {
 	public static void main(String[] args) {

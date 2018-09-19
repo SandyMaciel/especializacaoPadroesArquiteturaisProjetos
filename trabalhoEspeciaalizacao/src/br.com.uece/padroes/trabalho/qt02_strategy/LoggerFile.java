@@ -1,6 +1,4 @@
-package com.uece.br.strategy;
-
-import com.uece.br.strategy.ILoggerStrategy;
+package qt02_strategy;;
 
 public class LoggerFile implements ILoggerStrategy {
     @Override

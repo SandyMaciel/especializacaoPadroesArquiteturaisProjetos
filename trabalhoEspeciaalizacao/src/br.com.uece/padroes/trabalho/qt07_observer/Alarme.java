@@ -1,4 +1,4 @@
-package com.uece.br.observer;
+package qt07_observer;
 
 import java.util.ArrayList;
 import java.util.List;

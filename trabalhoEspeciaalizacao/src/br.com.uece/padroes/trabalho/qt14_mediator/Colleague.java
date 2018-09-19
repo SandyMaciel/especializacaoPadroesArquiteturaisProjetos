@@ -1,4 +1,4 @@
-package QT_14_mediator;
+package qt14_mediator;
 
 public abstract class Colleague {
 	protected Mediator mediator;

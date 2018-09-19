@@ -1,5 +1,4 @@
-package QT_14_mediator;
-
+package qt14_mediator;
 public class ProfessorColleague extends Colleague {
 
 	public ProfessorColleague(Mediator m) {

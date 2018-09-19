@@ -1,25 +1,4 @@
-package com.uece.br;
-
-import com.uece.br.abstractFactory.PizzaioloDom;
-import com.uece.br.abstractFactory.PizzaioloFactory;
-import com.uece.br.abstractFactory.PizzaioloSegQuaSex;
-import com.uece.br.abstractFactory.PizzaioloTerQuiSab;
-import com.uece.br.chain.*;
-import com.uece.br.decorator.Cobertura;
-import com.uece.br.decorator.FrozenBase;
-import com.uece.br.decorator.IFrozenItem;
-import com.uece.br.decorator.Topo;
-import com.uece.br.factoryMethod.DecodedImage;
-import com.uece.br.factoryMethod.IVisualizador;
-import com.uece.br.factoryMethod.VisualizadorBmp;
-import com.uece.br.factoryMethod.VisualizadorJpg;
-import com.uece.br.observer.Alarme;
-import com.uece.br.observer.PoliciaObserver;
-import com.uece.br.observer.SeguroObserver;
-import com.uece.br.singleton.Logger;
-import com.uece.br.strategy.LoggerEventViewer;
-import com.uece.br.strategy.StrategyContext;
-import com.uece.br.templateMethod.*;
+import qt01_singleton.Logger;
 
 import java.text.DateFormat;
 import java.text.ParseException;
@@ -28,37 +7,39 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.Scanner;
 
+import static com.uece.br.ConsoleColors.*;
+
 public class Main {
 
     public static void main(String[] args) throws ParseException {
-	// write your code here
+        // write your code here
 
         // 1. Singleton
-        System.out.println(ConsoleColors.RED + "EXEMPLO SINGLETON" + ConsoleColors.RESET + " =");
+        System.out.println(RED + "EXEMPLO SINGLETON" + RESET + " =");
         RunSingleton();
 
         // 2. Strategy
-        System.out.println(ConsoleColors.GREEN + "EXEMPLO STRATEGY" + ConsoleColors.RESET + " =");
+        System.out.println(GREEN + "EXEMPLO STRATEGY" + RESET + " =");
         RunStrategy();
 
         // 3. FactoryMethod
-        System.out.println(ConsoleColors.YELLOW + "EXEMPLO FACTORY METHOD" + ConsoleColors.RESET + " =");
+        System.out.println(YELLOW + "EXEMPLO FACTORY METHOD" + RESET + " =");
         RunFactoryMethod("foto.bmp");
         RunFactoryMethod("foto.jpg");
 
         // 4. Decorator
-        System.out.println(ConsoleColors.BLUE + "EXEMPLO DECORATOR" + ConsoleColors.RESET + " =");
+        System.out.println(com.uece.br.ConsoleColors.BLUE + "EXEMPLO DECORATOR" + com.uece.br.ConsoleColors.RESET + " =");
         RunDecorator();
 
         // 5. Chain
-        System.out.println(ConsoleColors.CYAN + "EXEMPLO CHAIN" + ConsoleColors.RESET + " =");
+        System.out.println(com.uece.br.ConsoleColors.CYAN + "EXEMPLO CHAIN" + com.uece.br.ConsoleColors.RESET + " =");
         RunChain();
 
         // 6. Command
         RunCommand();
 
         // 7. Observer
-        System.out.println(ConsoleColors.YELLOW_BRIGHT + "EXEMPLO OBSERVER" + ConsoleColors.RESET + " =");
+        System.out.println(com.uece.br.ConsoleColors.YELLOW_BRIGHT + "EXEMPLO OBSERVER" + com.uece.br.ConsoleColors.RESET + " =");
         RunObserver();
 
         // 8. Template Method
@@ -67,12 +48,12 @@ public class Main {
 
 
         //11. Abstract Factory
-        System.out.println(ConsoleColors.PURPLE + "EXEMPLO ABSTRACT FACTORY" + ConsoleColors.RESET + " =");
+        System.out.println(com.uece.br.ConsoleColors.PURPLE + "EXEMPLO ABSTRACT FACTORY" + com.uece.br.ConsoleColors.RESET + " =");
         RunAbstractFactory();
 
     }
 
-    private static void RunSingleton(){
+    private static void RunSingleton() {
         Logger logger1 = Logger.getInstance();
         logger1.setAtivo(true);
         logger1.log("Primeira mensagem");
@@ -82,7 +63,7 @@ public class Main {
 
     }
 
-    public static void RunStrategy(){
+    public static void RunStrategy() {
         StrategyContext ctx = new StrategyContext();
 
         ctx.setLoggerStrategy(new LoggerEventViewer());
@@ -90,52 +71,52 @@ public class Main {
         ctx.CreateLog("Usando EVENTVIEWER");
     }
 
-    public static void RunFactoryMethod(String image){
+    public static void RunFactoryMethod(String image) {
         DecodedImage decodedImage;
         IVisualizador visualizador = null;
-        String formato = image.substring(image.indexOf('.')+1, image.length());
-        if (formato.equals("jpg")){
-            visualizador = new VisualizadorJpg(image);
+        String formato = image.substring(image.indexOf('.') + 1, image.length());
+        if (formato.equals("jpg")) {
+            visualizador = (IVisualizador) new VisualizadorJpg(image);
         }
-        if (formato.equals("bmp")){
-            visualizador = new VisualizadorBmp(image);
+        if (formato.equals("bmp")) {
+            visualizador = (IVisualizador) new VisualizadorBmp(image);
         }
         if (visualizador == null) throw new AssertionError();
         decodedImage = visualizador.getDecodeImage();
         System.out.println(decodedImage);
     }
 
-    public static void RunDecorator(){
-        IFrozenItem frozen = new FrozenBase("yogurte de frutas", 15);
-        frozen = new Topo("castanha",8,frozen);
-        frozen = new Topo("frutas cristalizadas",6,frozen);
+    public static void RunDecorator() {
+        IFrozenItem frozen = (IFrozenItem) new FrozenBase("yogurte de frutas", 15);
+        frozen = new Topo("castanha", 8, frozen);
+        frozen = new Topo("frutas cristalizadas", 6, frozen);
         frozen = new Cobertura("chocolate", 5, frozen);
         System.out.println(frozen.getNome());
         System.out.println(frozen.getPreco());
 
     }
 
-    public static  void RunChain(){
-        CedulaChain cedulas = new CedulaUm();
-        cedulas.setNext(new CedulaCinco());
-        cedulas.setNext(new CedulaDez());
+    public static void RunChain() {
+        com.uece.br.chain.CedulaChain cedulas = new com.uece.br.chain.CedulaUm();
+        cedulas.setNext(new com.uece.br.chain.CedulaCinco());
+        cedulas.setNext(new com.uece.br.chain.CedulaDez());
 
         try {
-            cedulas.pagamento(IdCedulas.um);
-            cedulas.pagamento(IdCedulas.dez);
-            cedulas.pagamento(IdCedulas.cinco);
-            cedulas.pagamento(IdCedulas.um);
+            cedulas.pagamento(com.uece.br.chain.IdCedulas.um);
+            cedulas.pagamento(com.uece.br.chain.IdCedulas.dez);
+            cedulas.pagamento(com.uece.br.chain.IdCedulas.cinco);
+            cedulas.pagamento(com.uece.br.chain.IdCedulas.um);
         } catch (Exception e) {
             e.printStackTrace();
         }
 
     }
 
-    public static void RunCommand(){
+    public static void RunCommand() {
         System.out.println("...");
     }
 
-    public static void RunObserver(){
+    public static void RunObserver() {
         Alarme ast = new Alarme();
 
         new PoliciaObserver(ast);
@@ -143,25 +124,25 @@ public class Main {
 
         Scanner scan = new Scanner(System.in);
 
-        for (int i = 0; i < 5; i++){
+        for (int i = 0; i < 5; i++) {
             System.out.println("\nSimule o evento");
             ast.setState(scan.nextInt());
         }
 
     }
 
-    public static void RunTemplateMethod(){
-        TransformaStringTemplate mai = new TransformaMaiuscula();
+    public static void RunTemplateMethod() {
+        padroes.trabalho.templatemethod.TransformaStringTemplate mai = new padroes.trabalho.templatemethod.TransformaMaiuscula();
         mai.imprimeString();
 
-        TransformaStringTemplate min = new TransformaMinuscula();
+        padroes.trabalho.templatemethod.TransformaStringTemplate min = new padroes.trabalho.templatemethod.TransformaMinuscula();
         min.imprimeString();
 
 
-        TransformaStringTemplate inverte = new TransformaInverte();
+        padroes.trabalho.templatemethod.TransformaStringTemplate inverte = new TransformaInverte();
         inverte.imprimeString();
 
-        TransformaStringTemplate duplica = new TransformaDuplicacao();
+        padroes.trabalho.templatemethod.TransformaStringTemplate duplica = new padroes.trabalho.templatemethod.TransformaDuplicacao();
         duplica.imprimeString();
     }
 

@@ -1,5 +1,4 @@
-package QT_14_mediator;
-
+package qt14_mediator;
 public class Cliente {
 	public static void main(String[] args) {
 		MensagemMediator mediador = new MensagemMediator();

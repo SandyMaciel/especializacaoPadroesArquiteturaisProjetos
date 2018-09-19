@@ -1,4 +1,4 @@
-package com.uece.br.chain;
+package qt05_chain;
 
 public class CedulaDez extends CedulaChain {
 

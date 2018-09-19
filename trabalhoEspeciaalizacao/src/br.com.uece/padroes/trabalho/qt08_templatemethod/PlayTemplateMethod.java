@@ -1,4 +1,4 @@
-package padroes.trabalho.templatemethod;
+package qt08_templatemethod;
 
 public class PlayTemplateMethod {
  public static void main(String[] args) {

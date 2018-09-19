@@ -1,4 +1,4 @@
-package com.uece.br.singleton;
+package qt01_singleton;
 
 public class Logger {
     public static Logger logger;

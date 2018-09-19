@@ -1,4 +1,4 @@
-package trabalho;
+package qt12_adapter;
 
 public class main {
 	public static void main(String[] args) {

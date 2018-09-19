@@ -1,4 +1,4 @@
-package padroes.trabalho.abstractfactory;
+package qt11_abstractfactory;
 
 import java.text.DateFormat;
 import java.text.ParseException;

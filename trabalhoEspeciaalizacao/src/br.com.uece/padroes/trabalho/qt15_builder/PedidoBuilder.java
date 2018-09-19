@@ -1,5 +1,4 @@
-package padroes.trabalho.QT_15_builder;
-
+package qt15_builder;
 public abstract class PedidoBuilder {
 
 	protected Pedido pedido;

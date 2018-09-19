@@ -1,5 +1,4 @@
-package padroes.trabalho.templatemethod;
-
+package qt08_templatemethod;
 public class TransformaMinuscula extends TransformaStringTemplate {
 
 	@Override

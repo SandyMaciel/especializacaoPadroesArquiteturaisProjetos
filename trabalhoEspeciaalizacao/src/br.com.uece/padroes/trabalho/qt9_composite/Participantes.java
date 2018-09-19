@@ -1,4 +1,4 @@
-package padroes.trabalho.QT_09_composite;
+package qt9_composite;
 
 import java.util.ArrayList;
 import java.util.List;

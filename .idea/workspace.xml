@@ -1,9 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd798c9-8d09-4b30-8c2d-1e117664f3c9" name="Default" comment="">
+    <list default="true" id="7fad4350-40bb-4c24-9f94-66130d734333" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/especializacaoTrabalhoPadroesArquiteturaisProjetos.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/Main.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/Main.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt01_singleton/Logger.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt01_singleton/Logger.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt02_strategy/ILoggerStrategy.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt02_strategy/ILoggerStrategy.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt02_strategy/LoggerEventViewer.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt02_strategy/LoggerEventViewer.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt02_strategy/LoggerFile.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt02_strategy/LoggerFile.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt02_strategy/StrategyContext.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt02_strategy/StrategyContext.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt03_factoryMethod/DecodedImage.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt03_factoryMethod/DecodedImage.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt03_factoryMethod/FactoryVisualizador.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt03_factoryMethod/FactoryVisualizador.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt03_factoryMethod/IVisualizador.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt03_factoryMethod/IVisualizador.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt03_factoryMethod/VisualizadorBmp.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt03_factoryMethod/VisualizadorBmp.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt03_factoryMethod/VisualizadorJpg.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt03_factoryMethod/VisualizadorJpg.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt04_decorator/Cobertura.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt04_decorator/Cobertura.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt04_decorator/Extra.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt04_decorator/Extra.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt04_decorator/FrozenBase.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt04_decorator/FrozenBase.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt04_decorator/IFrozenItem.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt04_decorator/IFrozenItem.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt04_decorator/Topo.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt04_decorator/Topo.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/CedulaChain.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/CedulaChain.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/CedulaCinco.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/CedulaCinco.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/CedulaDez.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/CedulaDez.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/CedulaUm.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/CedulaUm.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/IdCedulas.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/IdCedulas.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/Command.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/Command.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/CommandA.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/CommandA.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/Jogador.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/Jogador.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/Joystick.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/Joystick.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/jogoFutebol.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/jogoFutebol.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt07_observer/Alarme.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt07_observer/Alarme.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt07_observer/Observer.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt07_observer/Observer.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt07_observer/PoliciaObserver.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt07_observer/PoliciaObserver.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt07_observer/SeguroObserver.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt07_observer/SeguroObserver.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/PlayTemplateMethod.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/PlayTemplateMethod.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TransformaDuplicacao.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TransformaDuplicacao.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TransformaMaiuscula.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TransformaMaiuscula.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TransformaMinuscula.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TransformaMinuscula.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TransformaStringTemplate.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TransformaStringTemplate.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TrnasformaInverte.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TrnasformaInverte.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Abstracao.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Abstracao.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Cliente.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Cliente.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Compras.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Compras.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Implementador.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Implementador.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Lista.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Lista.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/ListaLetras.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/ListaLetras.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/ListaMarcador.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/ListaMarcador.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/ListaNumerada.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/ListaNumerada.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/Pizza.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/Pizza.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaCalabresa.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaCalabresa.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaDomingo.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaDomingo.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaPresunto.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaPresunto.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaioloDom.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaioloDom.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaioloFactory.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaioloFactory.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaioloSegQuaSex.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaioloSegQuaSex.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaioloTerQuiSab.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaioloTerQuiSab.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PlayPizzaria.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PlayPizzaria.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt12_adapter/Cliente.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt12_adapter/Cliente.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt12_adapter/SomadorAdapter.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt12_adapter/SomadorAdapter.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt12_adapter/SomadorList.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt12_adapter/SomadorList.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt12_adapter/SomadorTarget.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt12_adapter/SomadorTarget.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt12_adapter/main.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt12_adapter/main.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/AlunosColleague.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/AlunosColleague.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/Cliente.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/Cliente.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/Colleague.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/Colleague.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/Mediator.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/Mediator.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/MensagemMediator.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/MensagemMediator.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/ProfessorColleague.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/ProfessorColleague.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Atendimento.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Atendimento.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Cliente.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Cliente.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Funcionario.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Funcionario.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Pedido.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Pedido.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/PedidoBuilder.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/PedidoBuilder.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/ClienteCongresso.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/ClienteCongresso.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Congresso.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Congresso.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Individuo.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Individuo.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Instituicao.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Instituicao.java" />
+      <change beforePath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Participantes.java" afterPath="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Participantes.java" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,52 +93,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Congresso.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Congresso.java">
+      <file leaf-file-name="Cliente.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Cliente.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Individuo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Individuo.java">
+      <file leaf-file-name="Funcionario.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Funcionario.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Instituicao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Instituicao.java">
+      <file leaf-file-name="Pedido.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Pedido.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Participantes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Participantes.java">
+      <file leaf-file-name="PedidoBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/PedidoBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClienteCongresso.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/ClienteCongresso.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3845#3846#0" expanded="true" />
+                <element signature="e#3886#3887#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,51 +157,71 @@
       <projects_view />
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/CedulaDez.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/CedulaCinco.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/Command.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/CommandA.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/Jogador.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/jogoFutebol.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/Joystick.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt07_observer/Alarme.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt07_observer/Observer.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt07_observer/PoliciaObserver.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt07_observer/SeguroObserver.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/PlayTemplateMethod.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TransformaDuplicacao.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TransformaMaiuscula.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TransformaMinuscula.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TransformaStringTemplate.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TrnasformaInverte.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/ClienteCongresso.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Congresso.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Individuo.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Instituicao.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Participantes.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Abstracao.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Cliente.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Compras.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Implementador.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Lista.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/ListaMarcador.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/ListaLetras.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/ListaNumerada.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaDomingo.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaCalabresa.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/Pizza.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaioloDom.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaioloFactory.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaioloSegQuaSex.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaioloTerQuiSab.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PlayPizzaria.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaPresunto.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/AlunosColleague.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/Cliente.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/Colleague.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/Mediator.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/MensagemMediator.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/ProfessorColleague.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Atendimento.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Cliente.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Funcionario.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Pedido.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/PedidoBuilder.java" />
+        <option value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/Main.java" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Android</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Correctness</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Performance</id>
-          </State>
-          <State>
-            <id>Android Lint for Kotlin</id>
-          </State>
-          <State>
-            <id>Bitwise operation issuesJava</id>
-          </State>
-          <State>
-            <id>Java</id>
-          </State>
-          <State>
-            <id>Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Naming conventionsJava</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>Android</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -134,53 +238,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="especializacaoTrabalhoPadroesArquiteturaisProjetos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="especializacaoTrabalhoPadroesArquiteturaisProjetos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="especializacaoTrabalhoPadroesArquiteturaisProjetos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="especializacaoTrabalhoPadroesArquiteturaisProjetos" type="462c0819:PsiDirectoryNode" />
-              <item name="trabalhoEspeciaalizacao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="especializacaoTrabalhoPadroesArquiteturaisProjetos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="especializacaoTrabalhoPadroesArquiteturaisProjetos" type="462c0819:PsiDirectoryNode" />
-              <item name="trabalhoEspeciaalizacao" type="462c0819:PsiDirectoryNode" />
-              <item name=".settings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="especializacaoTrabalhoPadroesArquiteturaisProjetos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="especializacaoTrabalhoPadroesArquiteturaisProjetos" type="462c0819:PsiDirectoryNode" />
-              <item name="trabalhoEspeciaalizacao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="especializacaoTrabalhoPadroesArquiteturaisProjetos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="especializacaoTrabalhoPadroesArquiteturaisProjetos" type="462c0819:PsiDirectoryNode" />
-              <item name="trabalhoEspeciaalizacao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="br.com.uece" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="especializacaoTrabalhoPadroesArquiteturaisProjetos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="especializacaoTrabalhoPadroesArquiteturaisProjetos" type="462c0819:PsiDirectoryNode" />
-              <item name="trabalhoEspeciaalizacao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="br.com.uece" type="462c0819:PsiDirectoryNode" />
               <item name="padroes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="especializacaoTrabalhoPadroesArquiteturaisProjetos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="especializacaoTrabalhoPadroesArquiteturaisProjetos" type="462c0819:PsiDirectoryNode" />
-              <item name="trabalhoEspeciaalizacao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="br.com.uece" type="462c0819:PsiDirectoryNode" />
               <item name="padroes" type="462c0819:PsiDirectoryNode" />
@@ -190,24 +269,17 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="android.sdk.path" value="C:/Android/Sdk" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt01_singleton" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Filipe Herculano\Desktop\especializacaoTrabalhoPadroesArquiteturaisProjetos\trabalhoEspeciaalizacao\src\br.com.uece\padroes\trabalho" />
-      <recent name="C:\Users\Filipe Herculano\Desktop\especializacaoTrabalhoPadroesArquiteturaisProjetos\trabalhoEspeciaalizacao\src\br.com.uece\padroes\trabalho\adapter" />
-      <recent name="C:\Users\Filipe Herculano\Desktop\especializacaoTrabalhoPadroesArquiteturaisProjetos\trabalhoEspeciaalizacao\src\br.com.uece\padroes\trabalho\" />
-      <recent name="C:\Users\Filipe Herculano\Desktop\especializacaoTrabalhoPadroesArquiteturaisProjetos\trabalhoEspeciaalizacao\src\br.com.uece" />
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="qt02_strategy" />
+      <recent name="qt01_singleton" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -222,14 +294,69 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.uece.br.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.uece.br.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="padroes" />
+      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="qt12_adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="qt12_adapter.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="padroes" />
+      <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -239,13 +366,24 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
+      <envs />
       <patterns />
     </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -258,21 +396,17 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
+      <envs />
       <properties />
       <listeners />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -280,55 +414,92 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
   </component>
-  <component name="SbtLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8fd798c9-8d09-4b30-8c2d-1e117664f3c9" name="Default" comment="" />
-      <created>1537274259788</created>
+      <changelist id="7fad4350-40bb-4c24-9f94-66130d734333" name="Default" comment="" />
+      <created>1537396276377</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1537274259788</updated>
+      <updated>1537396276377</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1374" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -338,327 +509,138 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/IdCedulas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/CedulaCinco.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/CedulaChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/Jogador.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/CommandA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/Joystick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/jogoFutebol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/ConsoleColors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/CedulaUm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/CedulaDez.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/IdCedulas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/CedulaChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt05_chain/CedulaCinco.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/Command.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/Jogador.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/CommandA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/Jogador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/jogoFutebol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/Joystick.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt06_command/jogoFutebol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/ConsoleColors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-568">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt12_adapter/Cliente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt12_adapter/SomadorAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt12_adapter/SomadorList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt12_adapter/SomadorTarget.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt12_adapter/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Lista.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Cliente.java">
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt07_observer/Alarme.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Compras.java">
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt07_observer/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Abstracao.java">
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt07_observer/PoliciaObserver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/ListaLetras.java">
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt07_observer/SeguroObserver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Implementador.java">
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/PlayTemplateMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/ListaMarcador.java">
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TransformaDuplicacao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/ListaNumerada.java">
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TransformaMaiuscula.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Pedido.java">
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TransformaMinuscula.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Cliente.java">
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TransformaStringTemplate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Atendimento.java">
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt08_templatemethod/TrnasformaInverte.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Funcionario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/PedidoBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Congresso.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Individuo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Instituicao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Participantes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -666,51 +648,287 @@
     <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/ClienteCongresso.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Congresso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Individuo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Instituicao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Participantes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="22" />
+          <folding>
+            <element signature="e#169#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Abstracao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Cliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Compras.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Implementador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/Lista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/ListaMarcador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/ListaLetras.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt10_bridge/ListaNumerada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaDomingo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaCalabresa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaioloDom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaioloFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaioloSegQuaSex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaioloTerQuiSab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PlayPizzaria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt11_abstractfactory/PizzaPresunto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/AlunosColleague.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/Cliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/Colleague.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/Mediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/MensagemMediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt14_mediator/ProfessorColleague.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Atendimento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Cliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Funcionario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/Pedido.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt15_builder/PedidoBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3845#3846#0" expanded="true" />
+            <element signature="e#3886#3887#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>Android API 23 Platform</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

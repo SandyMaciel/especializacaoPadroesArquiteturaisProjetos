@@ -1,5 +1,4 @@
-package padroes.trabalho.QT_15_builder;
-
+package qt15_builder;
 import java.util.ArrayList;
 
 public class Pedido {
