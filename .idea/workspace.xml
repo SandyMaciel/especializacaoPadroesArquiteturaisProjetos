@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fd798c9-8d09-4b30-8c2d-1e117664f3c9" name="Default" comment="" />
+    <list default="true" id="8fd798c9-8d09-4b30-8c2d-1e117664f3c9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +14,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Congresso.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/composite/Congresso.java">
+        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Congresso.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -22,7 +24,7 @@
         </entry>
       </file>
       <file leaf-file-name="Individuo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/composite/Individuo.java">
+        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Individuo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -32,7 +34,7 @@
         </entry>
       </file>
       <file leaf-file-name="Instituicao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/composite/Instituicao.java">
+        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Instituicao.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -42,7 +44,7 @@
         </entry>
       </file>
       <file leaf-file-name="Participantes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/composite/Participantes.java">
+        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Participantes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -52,7 +54,7 @@
         </entry>
       </file>
       <file leaf-file-name="ClienteCongresso.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/composite/ClienteCongresso.java">
+        <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/ClienteCongresso.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -183,16 +185,6 @@
               <item name="br.com.uece" type="462c0819:PsiDirectoryNode" />
               <item name="padroes" type="462c0819:PsiDirectoryNode" />
               <item name="trabalho" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="especializacaoTrabalhoPadroesArquiteturaisProjetos" type="b2602c69:ProjectViewProjectNode" />
-              <item name="especializacaoTrabalhoPadroesArquiteturaisProjetos" type="462c0819:PsiDirectoryNode" />
-              <item name="trabalhoEspeciaalizacao" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="br.com.uece" type="462c0819:PsiDirectoryNode" />
-              <item name="padroes" type="462c0819:PsiDirectoryNode" />
-              <item name="trabalho" type="462c0819:PsiDirectoryNode" />
-              <item name="qt01_singleton" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -334,7 +326,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -348,7 +339,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -665,7 +656,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/composite/Congresso.java">
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Congresso.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -673,7 +664,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/composite/Individuo.java">
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Individuo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -681,7 +672,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/composite/Instituicao.java">
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Instituicao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -689,7 +680,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/composite/Participantes.java">
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/Participantes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -697,7 +688,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/composite/ClienteCongresso.java">
+    <entry file="file://$PROJECT_DIR$/trabalhoEspeciaalizacao/src/br.com.uece/padroes/trabalho/qt9_composite/ClienteCongresso.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
