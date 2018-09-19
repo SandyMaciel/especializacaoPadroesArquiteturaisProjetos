@@ -1,6 +1,6 @@
 package padroes.trabalho.templatemethod;
 
-public class TrnasformaInverte extends TransformaStringTemplate{
+public class TransformaInverte extends TransformaStringTemplate{
 
 	@Override
 	public String transformaString(String palavra) {
